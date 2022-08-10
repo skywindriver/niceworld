@@ -1,0 +1,14 @@
+{
+    "name": "skywindriver/niceworld",
+    "description": "my first comproser project",
+    "type": "project",
+    "require": {
+        "laravel/laravel": "^9.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangjijun"
+        }
+    ]
+}
